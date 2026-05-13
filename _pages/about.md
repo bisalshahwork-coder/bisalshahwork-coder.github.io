@@ -27,7 +27,7 @@ View [Projects](projects) or watch the trailer for my [itch.io](https://bisalsha
 
 
 <div class="video-container">
-<div class="video"><iframe src="https://www.youtube.com/embed/EZ6-GX7TMkg?autoplay=1&mute=1&loop=1&playlist=EZ6-GX7TMkg&controls=0&modestbranding=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube.com/watch?v=Ec08db2hP10" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
