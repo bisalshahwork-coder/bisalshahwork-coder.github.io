@@ -1,0 +1,27 @@
+---
+layout: archive
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!--
+<style>
+  h2 {
+    margin: 1.5em 0 0.5em;
+  }
+</style>
+-->
+
+<h2>Projects</h2>
+
+Below are mostly personal projects, for education & work experience see <a href="../cv">my CV</a>.<br>
+<i>Click a category to view projects.</i><br>
+
+{% for post in site.portfolio %}
+<div class="category_background" markdown="1">
+  {% include archive-single.html %}
+</div>
+{% endfor %}
+
