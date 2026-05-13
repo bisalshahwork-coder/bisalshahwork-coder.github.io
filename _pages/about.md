@@ -27,7 +27,7 @@ View [Projects](projects) or watch the trailer for my [itch.io](https://bisalsha
 
 
 <div class="video-container">
-<div class="video"><iframe src="https://youtu.be/Ec08db2hP10?si=umOuELJjBCHNJox6" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube.com/embed/KpMQaVLg24U" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
