@@ -8,12 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Codeer's portfolio"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Bisal's portfolio"
 title_separator          : "-"
-name                     : &name "Codeer"
-description              : &description "Codeer's portfolio"
-url                      : https://codeerstudio.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Bisal Shah"
+description              : &description "Bisal's portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://bisalshah-commits.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 
@@ -22,35 +23,41 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
-  name             : "CODEER"
+  avatar           : "profile.png"
+  name             : "Bisal Shah"
   pronouns         : # example: "she/her"  
-  bio              : "Passionate game & game assets developer with a bachelor in software development."
-  location         : "The Netherlands"
-  employer         : 
+  bio              : "Passionate game & game developer with a Master's in software development"
+  location         : "Bengaluru, Karnataka"
+  employer         : "Alliance University"
   uri              : # URL
-  email            : "codeerstudio@gmail.com" 
+  email            : "bisalshah536@gmail.com" 
 
   # Academic websites
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : 
+  inspire-hep      : # URL
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
+  ssrn             : # URL
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
+  zotero           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "codeerstudio"
+  github           : "bisalshah-commits"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  artstation       : # Username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,21 +66,22 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shahbisal-gamedesigner"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "Codeer"
-  telegram         : # URL
+  steam            : "https://store.steampowered.com/join/?"
+  itchio           : "bisalshah"
   tumblr           : # Username
-  twitter          : "CodeerDev"
+  twitter          : "BisalS76198"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "Codeer"
+  youtube          : "bisalshah5070"
   zhihu            : # Username
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -85,7 +93,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -118,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -136,7 +144,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -237,8 +246,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
-      share: false
+      comments: true
+      share: true
       related: true
   # _pages
   - scope:
@@ -247,6 +256,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -254,21 +281,29 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -320,7 +355,7 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
