@@ -25,7 +25,7 @@ I’m always open to new opportunities — <i>feel free to get in touch!</i>
 View [Projects](projects) or watch the trailer for my [itch.io](https://bisalshah.itch.io/) Games below:
 
 <div class="video-container">
-<div class="video"><iframe src="https://youtu.be/Ec08db2hP10?si=YHvl9T6gi6uGDv4k" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg?si=Klx-rcgWNz3yyThN" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
