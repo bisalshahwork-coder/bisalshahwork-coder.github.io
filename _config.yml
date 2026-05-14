@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Codeer's portfolio"
+title                    : "Bisal's portfolio"
 title_separator          : "-"
 name                     : &name "Codeer"
 description              : &description "Codeer's portfolio"
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "bisalshah5070"
+  youtube          : "https://www.youtube.com/@bisalshah5070"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
