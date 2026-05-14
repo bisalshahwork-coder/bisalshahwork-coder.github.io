@@ -14,7 +14,7 @@ I enjoy making devlogs (development logs), as coming up with videos and editing 
 My goal making devlogs is to inspire and to show how I approach game development. I try to make my videos both educational and entertaining.
 At the same time they give me the opportunity to show off projects and get eyes on my steam page.
 
-[<i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i> View channel (100K+ subs)](https://www.youtube.com/@Codeer/videos)
+[<i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i> View channel](https://www.youtube.com/@Codeer/videos)
 
 ### Why devlogs
 
