@@ -13,19 +13,19 @@ redirect_from:
 
 <img src="/images/hand_waving.svg" width="50" height="50" alt="hand waving hi" style="opacity:0.7">
 
-# Hi! I'm Thijmen Schoonbeek 
-<b>aka Codeer </b>
+# Hi! I'm Bisal Shah 
+<i>Unity Wizard </i>
 
 
 
-I'm a game and asset developer with a bachelor's in software development. 
+I'm a game Designer and developer with a Master's in software development. 
 While programming is my forte, I’m passionate about a wide range of creative projects, from game development to 2D art, video editing, and wildlife photography. 
 I’m always open to new opportunities — <i>feel free to get in touch!</i>
 
-View [Projects](projects) or watch the trailer for my [Released Steam Game](https://store.steampowered.com/app/1877560/Walter_Walnut/) below:
+View [Projects](projects) or watch the trailer for my [itch.io](https://bisalshah.itch.io/) Games below:
 
 <div class="video-container">
-<div class="video"><iframe src="https://www.youtube.com/embed/KpMQaVLg24U" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg?si=EzpTZHVL9ic2AXvv" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
