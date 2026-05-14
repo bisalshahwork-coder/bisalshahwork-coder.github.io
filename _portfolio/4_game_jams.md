@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-stopwatch icon-pad-right' aria-hidden='true'></i>Game jams"
 excerpt: "I have participated in a variety of jams like Ludum Dare, Brackeys and GMTK."
 collection: portfolio
@@ -122,4 +122,4 @@ Timelapse of a 3-day game jam where I made a game about rolling around on an uns
 <div class="video-project"><iframe src="https://www.youtube.com/embed/YavZ1eH5Ctw" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
-</div>
+</div> -->

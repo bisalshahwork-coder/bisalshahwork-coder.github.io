@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-mobile icon-pad-right' aria-hidden='true'></i>Mobile games"
 excerpt: "I have developed many (casual) mobile games."
 collection: portfolio
@@ -318,4 +318,4 @@ Simple game prototype where you balance wooden boards to get colored balls to fa
 </div>
 
 </div>
-</div>
+</div> -->

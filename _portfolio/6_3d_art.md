@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-cube icon-pad-right' aria-hidden='true'></i>3D art"
 excerpt: "I specialize in 3d game development, and enjoy making my own 3d assets."
 collection: portfolio
@@ -83,4 +83,4 @@ Here are some miscellaneous models from different projects.
 
 <img src="/images/3D-art-misc/3d-models-misc-2.png" width="932" height="472" alt="misc characters">
 
-</details>
+</details> -->

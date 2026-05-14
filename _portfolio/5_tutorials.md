@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-person-chalkboard icon-pad-right' aria-hidden='true'></i>Tutorials"
 excerpt: "I have created mostly short form tutorials to show tips and tricks in Unity and explain game dev concepts."
 collection: portfolio
@@ -114,4 +114,4 @@ Shows how to make accurate projectiles using raycast, that don't rely on trigger
 </div>
 
 </div>
-</div>
+</div> -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-paintbrush icon-pad-right' aria-hidden='true'></i>2D art"
 excerpt: "I have dabbled in 2d art using Photoshop."
 collection: portfolio
@@ -27,4 +27,4 @@ Cute goofy looking character icons I drew for Walter Walnut.
 
 Not sure if this counts as 2d art, but I design my own YouTube thumbnails. Below are two examples.
 
-<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art">
+<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art"> -->
