@@ -11,12 +11,12 @@ redirect_from:
 Curriculum Vitae
 ======
 
-Name: Thijmen Schoonbeek <br>
-Date of birth: 17-06-2000 <br>
-Nationality: Nederlands
+Name: Bisal Shah <br>
+Date of birth: 02-12-2002 <br>
+Nationality: Indian
 
 <div class="author__avatar__cv">
-    <img src="/images/me.jpg" alt="Thijmen Schoonbeek">
+    <img src="/images/me.png" alt="Thijmen Schoonbeek">
 </div>
 
 <br>
@@ -24,54 +24,38 @@ Nationality: Nederlands
 Education
 ======
 
-> <b>2020 – 2025: Bachelors HBO-ICT, Software Development (completed)</b> <br>
-              HAN University of Applied Sciences, Nijmegen
+> <b>2024 – 2026: Masters of Computer Applications (MCA) in Game Design</b> <br>
+              Alliance University, Bangalore, Karnataka
 
-> <b>2024:          Software Development internship</b><br>
-              XR4Industry, Wijchen
+> <b>2021 - 2024: Bachelor of Computer Applications (BCA)</b><br>
+              Tinsukia College, Tinsukia, Assam
 
-> <b>2023:          Game Development minor</b><br>
-              HAN University of Applied Sciences, Arnhem
-
-> <b>2022:          Webdev internship</b><br>
-              Webbureau Linku, Nijmegen
-
-> <b>2018 – 2020:   Computing Science</b><br>
-              Radboud University, Nijmegen
-
-> <b>2012 – 2018:   VWO Natuur en Techniek</b><br>
-              Maaswaal College Veenseweg, Wijchen
-
+> <b>2021: Pre University Science</b><br>
+              Tinsukia College, Tinsukia, Assam
 
 <br>
 
 Experience
 ======
 
-### 2024 - 2025: Digital Twins in Unity
-* Software developer at XR4Industry, working on Digital Twins.
+### 2026 Game Developer Intern
+<i>Appsndevices Technologies Private Limited.</i>
+<i>01/2026 - 04/2026    Bangalore, Karnataka </i>
 
+* Developed gameplay systems and mechanics for educational arcade games using Unity and C#.
+* Implemented enemy behavior, collision detection, shooting systems, and game state management.
+* Built game economy systems — spawn rates, power-up logic, and scoring mechanics.
+* Collaborated with designers and testers to implement specs, fix bugs, and refine features.
+* Shipped two complete WebGL builds to itch.io from development through final deployment.
 
-### 2022 - 2024: Walter Walnut on Steam
-* Created my own Steam game to gain experience building and finishing games.
+### 2025: Game Developer Internship
+<i>Centre of Excellence in Immersive Technologies, Alliance University</i>
+<i>01/2026 - 04/2026    Bangalore, Karnataka </i>
 
-
-### 2021 – current: YouTube channel featuring game development videos
-* Video game devlogs; short videos about programming and building my games.
-
-
-### 2018: Unity tutoring (online)
-
-
-### 2016 – current: Selling game assets Unity Asset Store
-* Online sale of game templates, Unity c# scripts and 3d models.
-* Experience writing algorithms like Sudoku and word search generators.
-* Experience in customer support.
-
-
-### 2015 – current: Developing (mobile) apps & games in Unity
-* Published apps and games on the Google Play Store and Apple app store.
-* Integrated advertisements using Unity Ads and Google Admob.
+* Completed an intensive 30-day programme covering Unity, C#, 2D/3D game development, and AR/VR development.
+* Built and shipped a capstone project combining game design and immersive technology concepts.
+* Collaborated with students from multiple colleges and states in a diverse, fast-paced learning environment.
+* Gained practical exposure to AR/VR development pipelines and immersive game production workflows.
 
 <br>
 
@@ -81,19 +65,17 @@ Skills
 ### Programming languages
 - C#
 - C++
-- Java
-- Javascript
+- JavaScript
 - PHP
 - SQL
+- Python
 - HTML5
 - CSS3
-- Vue, React, Spring boot
-- Python
 
-### Game development (mostly self-taught)
+### Frameworks & Technologies
 - Unity development
 - 3D Modelling in Blender
-- Shaders (most experience in Amplify Shader Editor)
+- Shaders beginner
 - Sound design using Unity & Audacity
 - VR/AR
 - Photoshop image editing
@@ -102,20 +84,18 @@ Skills
 - Google Play & Apple App store tools
 - Unity Ads & Google AdMob
 
-### Software development (mostly through education)
+### Software development 
 - Git
 - Docker
 - OOP
 - Webdev
-- Embedded program development
 - Software architecture & UML
-- Data modeling
 - Code patterns & principles
 
 ### Other
-- Video editing using DaVinci Resolve (plus script writing & voiceover)
+- Video editing Filmora (plus script writing & voiceover)
 - Photo editing in Photoshop and Lightroom
 
 <br>
 Also check out my wildlife photos:<br>
-<a href="https://www.instagram.com/thijmensphotos/"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a>
+<a href="https://www.instagram.com/"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a>
