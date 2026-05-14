@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-code icon-pad-right' aria-hidden='true'></i>Code samples"
 excerpt: "Some code samples to show c# experience."
 collection: portfolio
@@ -43,4 +43,4 @@ For this portfolio I have published the source code for 3 small projects.
 
 <a href="https://codeer.itch.io/maze-generator"><i class="fab fa-fw fa-itch-io icon-pad-right" aria-hidden="true"></i>Project on itch.io</a>
 
-<a href="https://github.com/CodeerStudio/MazeGeneratorCode/tree/main/Scripts"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Code</a>
+<a href="https://github.com/CodeerStudio/MazeGeneratorCode/tree/main/Scripts"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Code</a> -->

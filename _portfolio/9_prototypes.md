@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-box-archive icon-pad-right' aria-hidden='true'></i>Miscellaneous"
 excerpt: "Prototypes and other cool stuff."
 collection: portfolio
@@ -185,4 +185,4 @@ Out of many prototypes I think this was one of the coolest ideas. You run in a t
 </div>
 
 </div>
-</div>
+</div> -->

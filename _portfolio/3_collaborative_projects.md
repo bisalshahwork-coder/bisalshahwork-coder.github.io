@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "<i class='fa-solid fa-people-group icon-pad-right' aria-hidden='true'></i>Collaborative projects"
 excerpt: "I have worked on multiple collaborative projects and learned how to work effectively in teams."
 collection: portfolio
@@ -63,4 +63,4 @@ Challenge is to find out what other developers intended to do with the game, and
 </div>
 
 <br>
-</div>
+</div> -->
