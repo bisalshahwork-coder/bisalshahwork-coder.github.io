@@ -23,11 +23,8 @@ Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-A
 
 
 <div class="video-container">
-<small>Low-Poly Truck </small>
     <div class="video"><iframe src="https://sketchfab.com/models/fd80ffc16ea246aeb886f084842172a2/embed" frameborder="0" allowfullscreen></iframe></div>
-<small>Low-poly zombie character</small>
     <div class="video"><iframe src="https://sketchfab.com/models/c58ef1dd874947558180ff4495a9ce0e/embed" frameborder="0" allowfullscreen></iframe></div>
-<small>Cube patriot </small>
     <div class="video"><iframe src="https://sketchfab.com/models/58c01bbd257f46a7b371076a3dc5096f/embed" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
