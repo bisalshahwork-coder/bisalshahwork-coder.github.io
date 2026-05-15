@@ -1,6 +1,6 @@
-<!-- ---
-title: "<i class='fab fa-fw fa-steam icon-pad-right' aria-hidden='true'></i>PC games"
-excerpt: "I'm currently working on a game called Formbound, and have published one previous title on Steam."
+---
+title: "<i class='fab fa-fw fa-steam icon-pad-right' aria-hidden='true'></i>Web-GL games"
+excerpt: "A level-based 3D runner game featuring handcrafted stages, each with unique environments and increasing difficulty."
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ and building something that I'm proud of by combining design, programming and ar
 
 ## Walter Walnut
 
-View [Steam Page](https://store.steampowered.com/app/1877560/Walter_Walnut/) or [Development Video](https://www.youtube.com/watch?v=qzTVIF1EuXQ&ab_channel=Codeer)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
 ![walter walnut image](/../images/walterwalnut.png)
 
@@ -77,4 +77,4 @@ Multi-year pc game project, largest project I have worked on.
 
 > Reviews: -
 
-</div> -->
+</div>
