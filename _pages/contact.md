@@ -11,5 +11,5 @@ Contact
 
 For business inquiries, questions or support, feel free to get in touch.
 
-<a href="mailto:Bisalshah536@gmail.com"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email : Bisalshah536@gmail.com" }}</a>
+<a href="mailto:Bisalshah536@gmail.com"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email-Bisalshah536@gmail.com" }}</a>
 
