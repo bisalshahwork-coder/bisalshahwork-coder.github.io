@@ -24,7 +24,7 @@ Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-A
 
 <section class="project-card">
 
-  <h2>Car 3D Model</h2>
+Low-Poly Truck 3D Model
 
   <div class="sketchfab-embed-wrapper">
     <iframe
@@ -40,14 +40,9 @@ Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-A
       execution-while-out-of-viewport
       execution-while-not-rendered
       web-share
-      src="https://sketchfab.com/models/236ca9fdd4f44facb79bab064ad0a370/embed">
+      src="https://sketchfab.com/models/fd80ffc16ea246aeb886f084842172a2/embed">
     </iframe>
   </div>
-
-  <p>
-    Interactive 3D car model created for game environment and vehicle design practice.
-  </p>
-
 </section>
 
 
