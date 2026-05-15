@@ -22,7 +22,7 @@ A level-based 3D runner game featuring handcrafted stages, each with unique
 environments and increasing difficulty.
 
 <div class="video-container">
-<div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg?si=L0_3dJaehsB2kZr1" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 * Gameplay: Control a cube or ship moving at high speeds, shifting left or right to avoid collisions.
