@@ -8,10 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Unity Assets
+## Assets
 
-I first started developing Unity assets in 2016, and since then have released 28 asset packages.
-Most of these packages are game templates that can be used as a base for new games.
+I’ve always been interested in both coding and creativity. Alongside programming, I enjoy designing and developing creative game assets, systems, and prototypes in Unity. Over time, I’ve created multiple assets and game-related projects that helped me improve my skills in game development, design thinking, and problem-solving. I enjoy combining technical development with creative ideas to build interactive and engaging experiences
 
 [<i class="fab fa-fw fa-unity icon-pad-right" aria-hidden="true"></i> View all assets](https://assetstore.unity.com/)
 
@@ -19,6 +18,28 @@ Directly view some demo videos taken from the asset pages here in no particular 
 For project descriptions please refer to the Unity Asset store using the link above.
 
 <small>See [Procedural Racing asset documentation](/../ProceduralRacing.pdf) for an example of how I document my assets.</small>
+
+
+
+
+<div class="sketchfab-embed-wrapper">
+  <iframe
+    title="Zombie Cartoon Character"
+    width="100%"
+    height="500"
+    frameborder="0"
+    allowfullscreen
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true"
+    allow="autoplay; fullscreen; xr-spatial-tracking"
+    xr-spatial-tracking
+    execution-while-out-of-viewport
+    execution-while-not-rendered
+    web-share
+    src="https://sketchfab.com/models/c58ef1dd874947558180ff4495a9ce0e/embed">
+  </iframe>
+</div>
+
 
 
 ### Game templates
