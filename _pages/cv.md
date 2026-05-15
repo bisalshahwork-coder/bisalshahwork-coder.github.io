@@ -39,7 +39,7 @@ Experience
 ======
 
 ### 2026 Game Developer Intern
-Appsndevices Technologies Private Limited.
+Appsndevices Technologies Private Limited.<br>
 01/2026 - 04/2026    Bangalore, Karnataka
 
 * Developed gameplay systems and mechanics for educational arcade games using Unity and C#.
@@ -49,7 +49,7 @@ Appsndevices Technologies Private Limited.
 * Shipped two complete WebGL builds to itch.io from development through final deployment.
 
 ### 2025: Game Developer Internship
-Centre of Excellence in Immersive Technologies, Alliance University
+Centre of Excellence in Immersive Technologies, Alliance University<br>
 01/2026 - 04/2026    Bangalore, Karnataka 
 
 * Completed an intensive 30-day programme covering Unity, C#, 2D/3D game development, and AR/VR development.
