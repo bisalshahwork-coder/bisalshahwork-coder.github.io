@@ -19,58 +19,17 @@ Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-A
 <small>See [Cube Runner asset documentation](/../CubeRunner.pdf) for an example of how I document my assets.</small>
 
 
-## 3D Models
-
-
-<section class="project-card">
-
-Low-Poly Truck 3D Model
-
-  <div class="sketchfab-embed-wrapper">
-    <iframe
-      title="Car"
-      width="100%"
-      height="500"
-      frameborder="0"
-      allowfullscreen
-      mozallowfullscreen="true"
-      webkitallowfullscreen="true"
-      allow="autoplay; fullscreen; xr-spatial-tracking"
-      xr-spatial-tracking
-      execution-while-out-of-viewport
-      execution-while-not-rendered
-      web-share
-      src="https://sketchfab.com/models/fd80ffc16ea246aeb886f084842172a2/embed">
-    </iframe>
-  </div>
-</section>
-
-
-<div class="sketchfab-embed-wrapper">
-  <iframe
-    title="Zombie Cartoon Character"
-    width="100%"
-    height="500"
-    frameborder="0"
-    allowfullscreen
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true"
-    allow="autoplay; fullscreen; xr-spatial-tracking"
-    xr-spatial-tracking
-    execution-while-out-of-viewport
-    execution-while-not-rendered
-    web-share
-    src="https://sketchfab.com/models/c58ef1dd874947558180ff4495a9ce0e/embed">
-  </iframe>
-</div>
-
-
-
-### Game templates
+### 3D Models
 
 
 <div class="video-container">
+Low-Poly Truck 3D Model
+Stylized low-poly truck 3D model with clean geometry and optimized details, designed for games, simulations, and real-time rendering. Suitable for Unity, Unreal Engine, Blender, and mobile game projects.
     <div class="video"><iframe src="https://sketchfab.com/models/c58ef1dd874947558180ff4495a9ce0e/embed" frameborder="0" allowfullscreen></iframe></div>
+
+
+
+    
 </div>
 
 
