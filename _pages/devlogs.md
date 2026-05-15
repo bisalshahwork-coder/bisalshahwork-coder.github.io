@@ -12,7 +12,7 @@ redirect_from:
 
 I enjoy making devlogs (development logs), as coming up with videos and editing is a fun and creative process.
 My goal making devlogs is to inspire and to show how I approach game development. I try to make my videos both educational and entertaining.
-At the same time they give me the opportunity to show off projects and get eyes on my steam page.
+
 
 [<i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i> View channel](https://www.youtube.com/@bisalshah5070)
 
@@ -22,7 +22,7 @@ A level-based 3D runner game featuring handcrafted stages, each with unique
 environments and increasing difficulty.
 
 <div class="video-container">
-<div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg?si=L0_3dJaehsB2kZr1" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://youtu.be/EZ6-GX7TMkg?si=1QZI6_EHtwuGKrys" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 * Gameplay: Control a cube or ship moving at high speeds, shifting left or right to avoid collisions.

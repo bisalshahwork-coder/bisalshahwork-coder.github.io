@@ -50,7 +50,7 @@ Appsndevices Technologies Private Limited.<br>
 
 ### 2025: Game Developer Internship
 Centre of Excellence in Immersive Technologies, Alliance University<br>
-01/2026 - 04/2026    Bangalore, Karnataka 
+12/2025 - 12/2025    Bangalore, Karnataka 
 
 * Completed an intensive 30-day programme covering Unity, C#, 2D/3D game development, and AR/VR development.
 * Built and shipped a capstone project combining game design and immersive technology concepts.
