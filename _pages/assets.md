@@ -10,16 +10,45 @@ redirect_from:
 
 ## Assets
 
-I’ve always been interested in both coding and creativity. Alongside programming, I enjoy designing and developing creative game assets, systems, and prototypes in Unity. Over time, I’ve created multiple assets and game-related projects that helped me improve my skills in game development, design thinking, and problem-solving. I enjoy combining technical development with creative ideas to build interactive and engaging experiences
+I’ve always been interested in both coding and creativity. Alongside programming, I enjoy designing and developing game assets, gameplay systems, and interactive prototypes using tools like Unity, Blender, and other game development and design software. Over time, I’ve created multiple game-related projects and assets that helped me strengthen my skills in game development, design thinking, problem-solving, and creative production. I enjoy combining technical development with creative ideas to build interactive, engaging, and visually appealing experiences.
 
-[<i class="fab fa-fw fa-unity icon-pad-right" aria-hidden="true"></i> View all assets](https://assetstore.unity.com/)
+[<i class="fab fa-fw fa-unity icon-pad-right" aria-hidden="true"></i> View all assets](https://sketchfab.com/feed) [<i class="fab fa-fw fa-unity icon-pad-right" aria-hidden="true"></i> View all assets](https://www.artstation.com/channels/game_art)
 
-Directly view some demo videos taken from the asset pages here in no particular order. <br>
-For project descriptions please refer to the Unity Asset store using the link above.
+Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-Art's , and demo videos below, showcasing my game development, design, and creative work in no particular order.
 
-<small>See [Procedural Racing asset documentation](/../ProceduralRacing.pdf) for an example of how I document my assets.</small>
+<small>See [Procedural Racing asset documentation](/../CubeRunner.pdf) for an example of how I document my assets.</small>
 
 
+## 3D Models
+
+
+<section class="project-card">
+
+  <h2>Car 3D Model</h2>
+
+  <div class="sketchfab-embed-wrapper">
+    <iframe
+      title="Car"
+      width="100%"
+      height="500"
+      frameborder="0"
+      allowfullscreen
+      mozallowfullscreen="true"
+      webkitallowfullscreen="true"
+      allow="autoplay; fullscreen; xr-spatial-tracking"
+      xr-spatial-tracking
+      execution-while-out-of-viewport
+      execution-while-not-rendered
+      web-share
+      src="https://sketchfab.com/models/236ca9fdd4f44facb79bab064ad0a370/embed">
+    </iframe>
+  </div>
+
+  <p>
+    Interactive 3D car model created for game environment and vehicle design practice.
+  </p>
+
+</section>
 
 
 <div class="sketchfab-embed-wrapper">
