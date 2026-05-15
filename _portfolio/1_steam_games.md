@@ -1,24 +1,21 @@
 ---
-title: "<i class='fab fa-fw fa-steam icon-pad-right' aria-hidden='true'></i>Web-GL games"
+title: "<i class='fab fa-fw fa-itch-io icon-pad-right' aria-hidden='true'></i>Web-GL Games"
 excerpt: "A level-based 3D runner game featuring handcrafted stages, each with unique environments and increasing difficulty."
 collection: portfolio
 ---
 
-After developing mobile games and assets for years, I started pc game development around 2020. 
-What I like most about pc game development is the large commitment to a single project, 
-and building something that I'm proud of by combining design, programming and artistic skills.
-
+I enjoy building interactive WebGL experiences by combining design, programming, and creativity into polished projects.
 <div class="project_background" markdown="1">
 
-## Walter Walnut
+## Cube Runner
 
 View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
-![walter walnut image](/../images/walterwalnut.png)
+![walter walnut image](/../images/cuberunner.png)
 
-<i>December 2021 - August 2024</i>
+<i>November 2025</i>
 
-Casual 3D adventure game about Walter Walnut, a gliding squirrel on a quest to find the mythical golden hazelnut.
+A level-based 3D runner game featuring handcrafted stages, each with unique environments and increasing difficulty.
 
 <details markdown="1">
 
@@ -26,35 +23,34 @@ Casual 3D adventure game about Walter Walnut, a gliding squirrel on a quest to f
 
 ### Project summary
 
-Multi-year pc game project, first experience publishing a pc game. Learned how to (adjust) scope, importance of playtesting, and how to iteratively develop a large videogame.
+Cube Runner is a 3D isometric platformer game developed using the Unity game engine for Windows. The player controls a cube that must jump across platforms, avoid obstacles, collect coins, and reach the end of each handcrafted level. The game focuses on timing, precision, reflexes, and progressive difficulty across different themed environments.
 <br />
 
 ### Main challenges
-* Managing large project structure
-* Planning
-* Keeping focus over time, working consistently 
-* Game design (mainly designing an engaging gameloop)
-* Structuring code in a way that is future-proof 
-* Technical challenges like UI, (gamepad) input rebinding, save system, scene loading, sound design, optimization, etc
+* Designing balanced and engaging handcrafted levels
+* Creating smooth player movement and jumping mechanics
+* Implementing obstacle systems like moving hazards and falling platforms
+* Managing physics and collision detection properly
+* Balancing game difficulty progression
+* Completing the project within a limited development timeline
+* Maintaining performance and gameplay stability
 </details>
 
-> Reviews: 92% positive
+> Reviews: 90% positive
 
 </div>
 
 <div class="project_background" markdown="1">
 
-## Formbound
+## Hearvest of the Dead
 
-View [Development Videos](https://youtube.com/playlist?list=PL3q73N_YG4whmLz5lyIEr3QZbr4y8k7rw&feature=shared) (Steam page coming soon)
+View [Development Videos](https://youtube.com/) (Steam page coming soon)
 
-![formbound image](/../images/formbound.png)
+![formbound image](/../images/HOTD.png)
 
-<i>2021, September 2024 - current</i>
+<i>November 2025 - December 2025</i>
 
-Formbound is a third-person shooter where you play as a squishling; a parasitic alien species.
-You use human hosts to fight other humans, trade, build your ship and travel to new locations.
-The goal is to reach the space station where your brother is held, and free him.
+A third-person post-apocalyptic survival game where players explore dangerous environments, rescue survivors, gather resources, and rebuild a colony while fighting infected creatures. The game combines exploration, combat, crafting, base building, and progression systems in a stylized atmospheric world.
 
 <details markdown="1">
 
@@ -66,13 +62,12 @@ Multi-year pc game project, largest project I have worked on.
 <br />
 
 ### Main challenges
-* Game design - game loop, goals, progression, etc
-* Focussing on MVP, not overscoping
-* Managing large project
-* Planning
-* Keeping focus over time, working consistently
-* Structuring code in a way that is future-proof
-* Playtesting
+* Designing balanced combat and survival mechanics
+* Creating engaging AI behavior for infected enemies
+* Managing open-world exploration and resource systems
+* Building smooth gameplay loops for missions and progression
+* Optimizing performance while maintaining visual style
+* Balancing colony management, crafting, and combat systems
 </details>
 
 > Reviews: -
