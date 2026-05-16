@@ -1,21 +1,21 @@
-<!-- ---
+---
 title: "<i class='fa-solid fa-cube icon-pad-right' aria-hidden='true'></i>3D art"
 excerpt: "I specialize in 3d game development, and enjoy making my own 3d assets."
 collection: portfolio
 ---
 
-I enjoy making my own 3d assets and specialize in (colorful) stylized 3d art. 
-I generally go for a smooth shaded low poly look.
-Also I enjoy making my own shaders to create custom lighting, effects and bring my models to life and create a consistent look.
+I enjoy creating my own 3D assets and specialize in colorful stylized art with a smooth-shaded low poly aesthetic. Using Blender and custom shaders, I create unique lighting and visual effects that bring consistency and personality to my models.
 
 Below are some examples of 3D models I've made, divided over subcategories.
+
+
 
 ## Environments
 
 Here are some in-engine environments that combine models, post processing, lighting and shaders.
 
-_Walter Walnut environment inside_
-<img src="/images/3D-art-environments/walter-environment-inside.png" width="932" height="472" alt="walter environments">
+_Project - Z009 environment inside_
+<img src="/images/3D-art-environments/project-Z009.png" width="932" height="472" alt="walter environments">
 
 _Sci fi environment_
 <img src="/images/3D-art-environments/scifi-environments.png" width="932" height="472" alt="scifi environments">
@@ -83,4 +83,19 @@ Here are some miscellaneous models from different projects.
 
 <img src="/images/3D-art-misc/3d-models-misc-2.png" width="932" height="472" alt="misc characters">
 
-</details> -->
+</details>
+
+
+
+
+
+<!-- ### 3D Models
+
+
+<div class="video-container">
+    <div class="video"><iframe src="https://sketchfab.com/models/fd80ffc16ea246aeb886f084842172a2/embed" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://sketchfab.com/models/702cb2040a66441db80879d8f126a741/embed" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://sketchfab.com/models/c58ef1dd874947558180ff4495a9ce0e/embed" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video"><iframe src="https://sketchfab.com/models/58c01bbd257f46a7b371076a3dc5096f/embed" frameborder="0" allowfullscreen></iframe></div>
+
+</div> -->
