@@ -14,7 +14,7 @@ Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping
 
 <br>
 
-## Character icons
+<!-- ## Character icons
 
 Cute goofy looking character icons I drew for Walter Walnut.
 
@@ -26,4 +26,4 @@ Cute goofy looking character icons I drew for Walter Walnut.
 
 Not sure if this counts as 2d art, but I design my own YouTube thumbnails. Below are two examples.
 
-<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art">
+<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art"> -->
