@@ -4,6 +4,9 @@ permalink: /assets/
 author_profile: true
 redirect_from:
   - /gameassets
+title: "<i class='fa-solid fa-paintbrush icon-pad-right' aria-hidden='true'></i>2D art"
+excerpt: "I have dabbled in 2d art using Photoshop."
+collection: portfolio
 ---
 
 {% include base_path %}
@@ -20,10 +23,10 @@ Explore some of my Game Design Documents (GDDs), 3D models, asset previews, 2D-A
 
 
 
-title: "<i class='fa-solid fa-paintbrush icon-pad-right' aria-hidden='true'></i>2D art"
+<!-- title: "<i class='fa-solid fa-paintbrush icon-pad-right' aria-hidden='true'></i>2D art"
 excerpt: "I have dabbled in 2d art using Photoshop."
 collection: portfolio
----
+--- -->
 
 I’ve always been passionate about sketching and digital art using tools like Adobe Photoshop, Illustrator, and Procreate. Below are some examples of my 2D artwork.
 
