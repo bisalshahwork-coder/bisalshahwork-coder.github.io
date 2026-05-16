@@ -1,17 +1,15 @@
-<!-- ---
 title: "<i class='fa-solid fa-paintbrush icon-pad-right' aria-hidden='true'></i>2D art"
 excerpt: "I have dabbled in 2d art using Photoshop."
 collection: portfolio
 ---
 
-I've always enjoyed drawing and sketching, and for Walter Walnut dabbled into Photoshop 2D art for the first time.
-Below are some examples of my 2D art.
+I’ve always been passionate about sketching and digital art using tools like Adobe Photoshop, Illustrator, and Procreate. Below are some examples of my 2D artwork.
 
-## Storyboard screens
+## ZA-lee
 
-Originally I was going to use these for storytelling, but I decided not to use them.
+Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping her hold ground and push back enemies.
 
-<img src="/images/2D-art/walter-drawings.png" width="932" height="472" alt="walter story images">
+<img src="/images/2D-art/ZA-lee.png" width="932" height="472" alt="walter story images">
 
 <br>
 
@@ -27,4 +25,4 @@ Cute goofy looking character icons I drew for Walter Walnut.
 
 Not sure if this counts as 2d art, but I design my own YouTube thumbnails. Below are two examples.
 
-<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art"> -->
+<img src="/images/2D-art/thumbnails.png" width="932" height="472" alt="youtube thumbnail art">
