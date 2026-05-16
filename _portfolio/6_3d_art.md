@@ -17,7 +17,7 @@ Here are some in-engine environments that combine models, post processing, light
 _Project - Z009 environment inside_
 <img src="/images/3D-art-environments/project-Z009.png" width="932" height="472" alt="walter environments">
 
-_Sci fi environment_
+<!-- _Sci fi environment_
 <img src="/images/3D-art-environments/scifi-environments.png" width="932" height="472" alt="scifi environments">
 
 _Formbound environments_
@@ -85,7 +85,7 @@ Here are some miscellaneous models from different projects.
 
 </details>
 
-
+ -->
 
 
 
