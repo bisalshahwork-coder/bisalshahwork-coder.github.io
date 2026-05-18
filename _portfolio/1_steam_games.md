@@ -19,7 +19,7 @@ A level-based 3D runner game featuring handcrafted stages, each with unique envi
 
 <details markdown="1">
 
-<summary>Project Game Design Document (click to expand)</summary>
+<summary>Project <b>Game Design Document</b> (click to expand)</summary>
 
 ### Project summary
 
@@ -27,6 +27,10 @@ Cube Runner is a 3D isometric platformer game developed using the Unity game eng
 <br />
 
 <img src="/images/projects/12.png" width="932" height="472" alt="walter environments">
+<video width="932" height="472" controls>
+  <source src="images/projects/cuberunner.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <img src="/images/projects/1.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/2.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/3.png" width="932" height="472" alt="walter environments">
