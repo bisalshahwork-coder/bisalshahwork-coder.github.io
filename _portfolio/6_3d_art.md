@@ -18,9 +18,10 @@ _Project - Z009 environment inside_
 <img src="/images/3D-art-environments/project-Z009.png" width="932" height="472" alt="walter environments">
 
 _Hearvest of the Dead environment inside_
-_Night View _
+_Day View _
 <img src="/images/3D-art-environments/hotd-1.png" width="932" height="472" alt="walter environments">
-Hearvest of the Dead environment inside _Day View _
+Hearvest of the Dead <br>
+Cell shanding technique atmospheric world with deep purple fog, layered forests, and soft lighting. Buildings have a hand-painted, cozy look that contrasts with the eerie environment, creating a dark yet visually charming post-apocalyptic setting.
 <img src="/images/3D-art-environments/hotd-2.png" width="932" height="472" alt="walter environments">
 
 
