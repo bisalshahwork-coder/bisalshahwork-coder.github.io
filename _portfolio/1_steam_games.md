@@ -28,9 +28,7 @@ Cube Runner is a 3D isometric platformer game developed using the Unity game eng
 
 <img src="/images/projects/12.png" width="932" height="472" alt="walter environments">
 
-<div class="video-container">
-<div class="video"><iframe src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG" frameborder="0" allowfullscreen></iframe></div>
-</div>
+
 
 <div class="my-center-video">
   <iframe 
