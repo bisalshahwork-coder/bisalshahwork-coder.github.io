@@ -21,7 +21,7 @@ _Hearvest of the Dead environment inside_
 _Day View _
 <img src="/images/3D-art-environments/hotd-1.png" width="932" height="472" alt="walter environments">
 Hearvest of the Dead <br>
-Cell shanding technique atmospheric world with deep purple fog, layered forests, and soft lighting. Buildings have a hand-painted, cozy look that contrasts with the eerie environment, creating a dark yet visually charming post-apocalyptic setting.
+<small> Cell shanding technique atmospheric world with deep purple fog, layered forests, and soft lighting. Buildings have a hand-painted, cozy look that contrasts with the eerie environment, creating a dark yet visually charming post-apocalyptic setting.</small>
 <img src="/images/3D-art-environments/hotd-2.png" width="932" height="472" alt="walter environments">
 
 
