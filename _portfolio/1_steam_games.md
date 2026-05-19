@@ -32,10 +32,14 @@ Cube Runner is a 3D isometric platformer game developed using the Unity game eng
 <div class="video"><iframe src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
-<video width="400" height="250" controls>
-  <source src="/images/projects/cuberunner.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="my-center-video">
+  <iframe 
+    src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 <img src="/images/projects/1.png" width="932" height="472" alt="walter environments">
