@@ -22,6 +22,9 @@ _Hearvest of the Dead environment inside_
 
 <img src="/images/3D-art-environments/hearvest of the dead enviroment-2.png" width="932" height="472" alt="walter environments">
 
+<img src="/images/3D-art-environments/hearvest of the dead enviroment-3.png" width="932" height="472" alt="walter environments">
+
+
 
 <!-- _Sci fi environment_
 <img src="/images/3D-art-environments/scifi-environments.png" width="932" height="472" alt="scifi environments">
