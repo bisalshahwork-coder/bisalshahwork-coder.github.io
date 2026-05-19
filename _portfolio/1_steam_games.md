@@ -15,7 +15,7 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 ## Hearvest of the Dead
 
-View [Development Videos](https://youtube.com/) (Steam page coming soon)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/)
 
 ![formbound image](/../images/HOTD.png)
 
@@ -33,7 +33,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 <div class="hotd-video">
   <video controls>
-    <source src="/images/projects/home.mp4" type="video/mp4">
+    <source src="/images/projects/HOTD/home.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
