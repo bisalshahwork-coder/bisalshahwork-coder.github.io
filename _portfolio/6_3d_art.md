@@ -22,8 +22,7 @@ _Night View _
 <img src="/images/3D-art-environments/hearvest of the dead enviroment-1.png" width="932" height="472" alt="walter environments">
 Hearvest of the Dead environment inside _Day View _
 <img src="/images/3D-art-environments/hearvest of the dead enviroment-2.png" width="932" height="472" alt="walter environments">
-Hearvest of the Dead environment inside _ Fog Visual style   _
-<img src="/images/3D-art-environments/hearvest of the dead enviroment-3.png" width="932" height="472" alt="walter environments">
+
 
 
 
