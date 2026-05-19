@@ -19,9 +19,9 @@ _Project - Z009 environment inside_
 
 _Hearvest of the Dead environment inside_
 _Night View _
-<img src="/images/3D-art-environments/hearvest of the dead enviroment-1.png" width="932" height="472" alt="walter environments">
+<img src="/images/3D-art-environments/hotd-1.png" width="932" height="472" alt="walter environments">
 Hearvest of the Dead environment inside _Day View _
-<img src="/images/3D-art-environments/hearvest of the dead enviroment-2.png" width="932" height="472" alt="walter environments">
+<img src="/images/3D-art-environments/hotd-2.png" width="932" height="472" alt="walter environments">
 
 
 
