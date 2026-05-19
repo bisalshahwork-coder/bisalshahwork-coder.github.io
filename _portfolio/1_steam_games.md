@@ -1,6 +1,6 @@
 ---
 title: "<i class='fab fa-fw fa-itch-io icon-pad-right' aria-hidden='true'></i>Web-GL Games"
-excerpt: "A level-based 3D runner game featuring handcrafted stages, each with unique environments and increasing difficulty."
+excerpt: "Web-GL games 2d/3d "
 collection: portfolio
 ---
 
