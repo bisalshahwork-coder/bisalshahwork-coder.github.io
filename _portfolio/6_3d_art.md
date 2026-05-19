@@ -18,6 +18,7 @@ _Project - Z009 environment inside_
 <img src="/images/3D-art-environments/project-Z009.png" width="932" height="472" alt="walter environments">
 
 _Hearvest of the Dead environment inside_
+                                                      
 _Day View _
 <img src="/images/3D-art-environments/hotd-1.png" width="932" height="472" alt="walter environments">
 Hearvest of the Dead <br>
