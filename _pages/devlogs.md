@@ -37,6 +37,7 @@ My goal making devlogs is to inspire and to show how I approach game development
 - <small>Dynamic radius variation</small>
 - <small>Seamless tunnel edges</small>
 <small>This creates a more realistic and visually interesting environment.</small>
+
 </div>
 
 
