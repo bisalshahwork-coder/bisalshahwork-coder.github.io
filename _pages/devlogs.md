@@ -18,7 +18,26 @@ My goal making devlogs is to inspire and to show how I approach game development
 
 
 
+<div class="project_background" markdown="1">
 
+## Procedural Tunnel System
+![formbound image](/../images/HOTD.png)
+<small>The main idea of this system is that the TunnelGenerator dynamically creates a procedural tunnel mesh with smooth bends, wave-based deformations, and seamless edges to make the tunnel look continuous and natural during gameplay.</small>
+
+<details markdown="1">
+<summary><b>Read More</b> (click to expand)</summary>
+
+### Project summary
+<b>Core Concept</b></small><br>
+<small>The system is divided into two main scripts:</small><br>                          
+<small><b>TunnelGenerator</b></small>
+<small>The TunnelGenerator script is responsible for creating the tunnel mesh procedurally. It generates vertices, triangles, UVs, and mesh colliders dynamically. The tunnel includes:</small><br>
+- <small>Smooth bends</small>
+- <small>Wave deformations</small>
+- <small>Dynamic radius variation</small>
+- <small>Seamless tunnel edges</small>
+<small>This creates a more realistic and visually interesting environment.</small>
+</div>
 
 
 ## Procedural Tunnel System
