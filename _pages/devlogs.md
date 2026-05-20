@@ -26,16 +26,16 @@ My goal making devlogs is to inspire and to show how I approach game development
 <small><br>
 <b>Core Concept</b></small><br>
 
-<small>The system is divided into two main scripts:</small>                          <small></small>
+<small>The system is divided into two main scripts:</small>                          
 
 <small><b>TunnelGenerator</b></small>
 <small>The TunnelGenerator script is responsible for creating the tunnel mesh procedurally. It generates vertices, triangles, UVs, and mesh colliders dynamically. The tunnel includes:</small>
-<small>
-- Smooth bends
-- Wave deformations
-- Dynamic radius variation
-- Seamless tunnel edges
-</small>
+
+- <small>Smooth bends</small>
+- <small>Wave deformations</small>
+- <small>Dynamic radius variation</small>
+- <small>Seamless tunnel edges</small>
+
 
 This creates a more realistic and visually interesting environment.
 
@@ -49,7 +49,7 @@ The TunnelManager controls the endless tunnel behavior. It:
 - Regenerates tunnel meshes infinitely
 
 This helps create the illusion of an endless world while improving performance by reusing objects instead of constantly creating new ones.
-</small>
+
 
 
 
