@@ -80,7 +80,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
-![walter walnut image](/../images/projects/ActionInputSystem/1.png)
+![walter walnut image](/../images/projects/ActionInputSystem/0.png)
 A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
 
 <details markdown="1">
