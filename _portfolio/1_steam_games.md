@@ -80,19 +80,19 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
-![walter walnut image](/../images/projects/ActionInputSystem/0.png)
+![walter walnut image](/../images/projects/ActionInputSystem/0.png)<br>
 A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
 
 <details markdown="1">
 
-<summary>Project <b>Summary</b> (click to expand)</summary>
+<summary>Project <b>Summary</b> (click to expand)</summary><br>
 
 ### Project summary
 Developed a customizable in-game action input system in Unity that allows players to dynamically remap gameplay actions such as jump, crouch, attack, reload, and aim to any keyboard or mouse input through an interactive UI panel. The system is built using a modular command-based architecture, enabling flexible integration with character movement, animations, and gameplay mechanics without rewriting controller logic.
 
 <br />
 
-<img src="/images/projects/ActionInputSystem/1.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/1.png" width="932" height="460" alt="walter environments">
 
 <!-- <div class="my-center-video">
   <iframe 
