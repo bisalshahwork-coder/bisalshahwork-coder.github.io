@@ -5,10 +5,15 @@ collection: portfolio
 ---
 
 I enjoy building interactive WebGL experiences by combining design, programming, and creativity into polished projects.
+
+
+
+
+
+
+
+
 <!-- ==================================================== -->
-
-
-
 
 
 <div class="project_background" markdown="1">
@@ -75,6 +80,13 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 </div>
 <!-- ======================================================================================================== -->
 
+
+
+
+
+
+
+
 <div class="project_background" markdown="1">
 ## Action Input System 
 
@@ -85,7 +97,9 @@ A customizable input–action system with realtime gameplay preview, built to pr
 
 <details markdown="1">
 
-<summary>Project <b>Summary</b> (click to expand)</summary><br>
+<summary>Project <b>Summary</b> (click to expand)</summary>
+
+> Reviews: 
 
 ### Project summary
 Developed a customizable in-game action input system in Unity that allows players to dynamically remap gameplay actions such as jump, crouch, attack, reload, and aim to any keyboard or mouse input through an interactive UI panel. The system is built using a modular command-based architecture, enabling flexible integration with character movement, animations, and gameplay mechanics without rewriting controller logic.
