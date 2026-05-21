@@ -73,6 +73,77 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 > Reviews: -
 
 </div>
+<!-- ======================================================================================================== -->
+
+<div class="project_background" markdown="1">
+## Action Input System 
+
+View [itch.io Page](https://bisalshah.itch.io/cube-runner) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
+
+![walter walnut image](/../images/cuberunner.png)
+
+<i>November 2025</i>
+
+A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
+
+<details markdown="1">
+
+<summary>Project <b>Game Design Document</b> (click to expand)</summary>
+
+### Project summary
+Created an in-game action editor that lets players map actions like jump, crouch, aim, reload, heal, and revive to any key.
+Built a modular command-based architecture, allowing each action to plug into the character controller without rewriting code.
+Integrated smooth character animation blending for all mapped actions using Unity’s Animator and event callbacks.
+Added a dynamic UI panel that updates instantly as actions are assigned, removed, or triggered.
+Implemented responsive gameplay feedback including hit reactions, weapon handling, and health updates in real time.
+
+<br />
+
+<img src="/images/projects/ActionInputSystem/1.png" width="932" height="472" alt="walter environments">
+
+<div class="my-center-video">
+  <iframe 
+    src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<img src="/images/projects/ActionInputSystem/1.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/2.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/3.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/4.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/5.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/6.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/7.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/8.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/ActionInputSystem/9.png" width="932" height="472" alt="walter environments">
+
+
+
+### Main challenges
+* Designing balanced and engaging handcrafted levels
+* Creating smooth player movement and jumping mechanics
+* Implementing obstacle systems like moving hazards and falling platforms
+* Managing physics and collision detection properly
+* Balancing game difficulty progression
+* Completing the project within a limited development timeline
+* Maintaining performance and gameplay stability
+</details>
+
+> Reviews: 90% positive
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -95,7 +166,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 <div class="project_background" markdown="1">
 ## Cube Runner
 
-View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
+View [itch.io Page](https://bisalshah.itch.io/cube-runner) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
 ![walter walnut image](/../images/cuberunner.png)
 
