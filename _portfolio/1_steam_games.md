@@ -78,12 +78,9 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 <div class="project_background" markdown="1">
 ## Action Input System 
 
-View [itch.io Page](https://bisalshah.itch.io/cube-runner) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
 
-![walter walnut image](/../images/cuberunner.png)
-
-<i>November 2025</i>
-
+![walter walnut image](/../images/projects/ActionInputSystem/1.png)
 A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
 
 <details markdown="1">
@@ -91,11 +88,7 @@ A customizable input–action system with realtime gameplay preview, built to pr
 <summary>Project <b>Game Design Document</b> (click to expand)</summary>
 
 ### Project summary
-Created an in-game action editor that lets players map actions like jump, crouch, aim, reload, heal, and revive to any key.
-Built a modular command-based architecture, allowing each action to plug into the character controller without rewriting code.
-Integrated smooth character animation blending for all mapped actions using Unity’s Animator and event callbacks.
-Added a dynamic UI panel that updates instantly as actions are assigned, removed, or triggered.
-Implemented responsive gameplay feedback including hit reactions, weapon handling, and health updates in real time.
+Developed a customizable in-game action input system in Unity that allows players to dynamically remap gameplay actions such as jump, crouch, attack, reload, and aim to any keyboard or mouse input through an interactive UI panel. The system is built using a modular command-based architecture, enabling flexible integration with character movement, animations, and gameplay mechanics without rewriting controller logic.
 
 <br />
 
@@ -123,16 +116,15 @@ Implemented responsive gameplay feedback including hit reactions, weapon handlin
 
 
 ### Main challenges
-* Designing balanced and engaging handcrafted levels
-* Creating smooth player movement and jumping mechanics
-* Implementing obstacle systems like moving hazards and falling platforms
-* Managing physics and collision detection properly
-* Balancing game difficulty progression
-* Completing the project within a limited development timeline
-* Maintaining performance and gameplay stability
+* Creating a fully modular input architecture that supports adding new actions easily
+* Synchronizing custom inputs with animation transitions smoothly
+* Preventing duplicate or conflicting key assignments
+* Updating the UI instantly whenever actions are remapped
+* Handling both keyboard and mouse inputs dynamically
+* Maintaining responsive gameplay feedback with low input delay
+* Connecting action modules with the character controller without tightly coupling systems
 </details>
 
-> Reviews: 90% positive
 </div>
 
 
