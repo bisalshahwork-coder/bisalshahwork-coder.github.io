@@ -33,7 +33,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 <div class="hotd-video">
   <video controls>
-    <source src="/images/projects/HOTD/gameplay.mp4" type="video/mp4">
+    <source src="/images/projects/HOTD/project1vedio.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
