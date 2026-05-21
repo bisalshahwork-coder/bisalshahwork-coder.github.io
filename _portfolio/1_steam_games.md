@@ -15,7 +15,7 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 ## Hearvest of the Dead
 
-View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/)
+View [itch.io Page](https://bisalshah.itch.io/hearvest-of-the-dead) or [Development Video](https://youtu.be/)
 
 ![formbound image](/../images/HOTD.png)
 
