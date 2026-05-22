@@ -159,7 +159,7 @@ This project is a procedural terrain generation system developed in Unity using 
   </iframe>
 </div> -->
 
-<img src="/images/projects/tunnel/1.png" width="932" height="460" alt="walter environments">
+<!-- <img src="/images/projects/tunnel/1.png" width="932" height="460" alt="walter environments"> -->
 
 
 
