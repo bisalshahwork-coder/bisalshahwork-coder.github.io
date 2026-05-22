@@ -30,7 +30,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 <div class="my-center-video">
   <iframe 
-    src="https://www.youtube.com/embed/wi5gO6aPb2o"
+    src="https://www.youtube.com/embed/rd2qirJOxAQ"
     title="YouTube video player"
     frameborder="0"
     allowfullscreen>
