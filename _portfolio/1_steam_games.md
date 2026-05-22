@@ -57,28 +57,6 @@ Home Beyond Stars is an in-development sci-fi exploration game being built in Un
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- =====================Hearvest of the Dead=============================== -->
 
 
@@ -145,6 +123,78 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 > Reviews: -
 
 </div>
+
+<!-- ==========================================================Tunnel Generator============================================== -->
+
+
+
+<div class="project_background" markdown="1">
+
+## Action Input System 
+
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/)
+
+![walter walnut image](/../images/tunnelbanner.png)<br>
+A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
+
+<details markdown="1">
+
+<summary>Project <b>Summary</b> (click to expand)</summary>
+
+
+
+### Tunnel Driving  / Procedural Terrain Generation System in Unity
+This project is a procedural terrain generation system developed in Unity using C#. The system dynamically creates natural-looking landscapes using Perlin Noise algorithms instead of manually designing terrains. It automatically generates mountains, hills, and valleys in real time through code. The project demonstrates procedural generation techniques, terrain manipulation, and noise-based environment creation. It is useful for open-world games, survival games, and endless environment systems while reducing manual level design work and improving scalability.
+
+<br />
+
+<img src="/images/projects/tunnel/1.png" width="932" height="460" alt="walter environments">
+
+<!-- <div class="my-center-video">
+  <iframe 
+    src="https://www.youtube.com/embed/rd2qirJOxAQ"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div> -->
+
+<img src="/images/projects/tunnel/1.png" width="932" height="460" alt="walter environments">
+
+
+
+
+
+### Main challenges
+* Generating smooth and natural-looking terrain using Perlin Noise
+* Managing terrain performance for large environments
+* Balancing terrain height and scaling properly
+* Preventing repetitive terrain patterns
+* Optimizing real-time terrain generation
+* Handling memory usage for bigger worlds
+* Creating realistic mountains, valleys, and landscape variation
+</details>
+> Reviews: -
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
