@@ -12,42 +12,43 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 ## Home Beynd Stars
 
-View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/_HVFcJpkjRY?si=6u_44r2vbefSBqzC)
 
-![formbound image](/../images/HOTD.png)
+![formbound image](/../images/homestar.png)
 
 <i>November 2025 - December 2025</i>
 
-A third-person post-apocalyptic survival game where players explore dangerous environments, rescue survivors, gather resources, and rebuild a colony while fighting infected creatures. The game combines exploration, combat, crafting, base building, and progression systems in a stylized atmospheric world.
-
+Home Beyond Stars is an in-development sci-fi exploration game being built in Unity.
 <details markdown="1">
 
-<summary>Project <b>Game Design Document</b> (click to expand)</summary>
+<summary>Project <b>Dev Vedio & GGD</b> (click to expand)</summary>
 
 ### Project summary
 
-<img src="/images/projects/HOTD/1.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/HOTD/homestar.png" width="932" height="472" alt="walter environments">
 
 <div class="my-center-video">
   <iframe 
-    src="https://www.youtube.com/embed/rd2qirJOxAQ"
+    src="https://www.youtube.com/embed/_HVFcJpkjRY?si=xTjU0gbFTB0lsGuY"
     title="YouTube video player"
     frameborder="0"
     allowfullscreen>
   </iframe>
 </div>
-
-<img src="/images/projects/HOTD/2.png" width="932" height="472" alt="walter environments">
+<!-- <img src="/images/projects/HOTD/2.png" width="932" height="472" alt="walter environments"> -->
 
 <br />
 
 ### Main challenges
-* Designing balanced combat and survival mechanics
-* Creating engaging AI behavior for infected enemies
-* Managing open-world exploration and resource systems
-* Building smooth gameplay loops for missions and progression
-* Optimizing performance while maintaining visual style
-* Balancing colony management, crafting, and combat systems
+* Since the project is still in its early development stage, one of the biggest challenges was deciding the overall story direction and world-building concept.
+* Designing a unique sci-fi atmosphere that matches the theme of space exploration and isolation.
+* Planning environments that feel visually immersive while also supporting gameplay mechanics.
+* Creating a character design and visual identity that fits the futuristic setting of the game.
+* Deciding core gameplay mechanics and how players would interact with the world.
+* Balancing cinematic visuals with smooth gameplay performance inside Unity.
+* Building a modular project structure that can support future systems and expansion.
+* Managing consistency between the story, environment design, gameplay feel, and visual style.
+* Experimenting with different gameplay ideas during the prototype phase to identify the strongest direction for the project.
 </details>
 
 > Reviews: -
