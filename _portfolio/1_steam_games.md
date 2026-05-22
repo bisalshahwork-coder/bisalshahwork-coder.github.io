@@ -10,7 +10,7 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 <div class="project_background" markdown="1">
 
-## Project Z009
+## Home Beynd Stars
 
 View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/)
 
@@ -158,7 +158,7 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 ## Action Input System 
 
-View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/EZ6-GX7TMkg?si=2EWemFNfKrVc6lVO)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/watch?v=rd2qirJOxAQ)
 
 ![walter walnut image](/../images/projects/ActionInputSystem/0.png)<br>
 A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
