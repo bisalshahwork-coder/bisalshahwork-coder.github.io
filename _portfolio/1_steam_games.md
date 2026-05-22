@@ -108,14 +108,13 @@ Developed a customizable in-game action input system in Unity that allows player
 
 <img src="/images/projects/ActionInputSystem/1.png" width="932" height="460" alt="walter environments">
 
-<!-- <div class="my-center-video">
-  <iframe 
-    src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG"
-    title="YouTube video player"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div> -->
+<div class="hotd-video">
+  <video controls>
+    <source src="/images/projects/ActionInputSystem/actioninputvedio.mp4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 <img src="/images/projects/ActionInputSystem/1.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/ActionInputSystem/2.png" width="932" height="472" alt="walter environments">
