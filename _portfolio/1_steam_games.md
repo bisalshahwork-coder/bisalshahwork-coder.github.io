@@ -99,7 +99,7 @@ A customizable input–action system with realtime gameplay preview, built to pr
 
 <summary>Project <b>Summary</b> (click to expand)</summary>
 
-> Reviews: - 90%
+
 
 ### Project summary
 Developed a customizable in-game action input system in Unity that allows players to dynamically remap gameplay actions such as jump, crouch, attack, reload, and aim to any keyboard or mouse input through an interactive UI panel. The system is built using a modular command-based architecture, enabling flexible integration with character movement, animations, and gameplay mechanics without rewriting controller logic.
@@ -137,7 +137,7 @@ Developed a customizable in-game action input system in Unity that allows player
 * Maintaining responsive gameplay feedback with low input delay
 * Connecting action modules with the character controller without tightly coupling systems
 </details>
-
+> Reviews: -
 </div>
 
 
