@@ -12,7 +12,7 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 ## Home Beynd Stars
 
-View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://youtu.be/_HVFcJpkjRY?si=6u_44r2vbefSBqzC)
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/watch?v=fieZ0Abndtk)
 
 ![formbound image](/../images/homestar.png)
 
@@ -29,7 +29,7 @@ Home Beyond Stars is an in-development sci-fi exploration game being built in Un
 
 <div class="my-center-video">
   <iframe 
-    src="https://www.youtube.com/embed/_HVFcJpkjRY?si=xTjU0gbFTB0lsGuY"
+    src="https://www.youtube.com/embed/fieZ0Abndtk?si=fNmgCUKrlnM568gq"
     title="YouTube video player"
     frameborder="0"
     allowfullscreen>
