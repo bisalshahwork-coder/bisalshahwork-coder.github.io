@@ -1,6 +1,6 @@
 ---
-title: "<i class='fab fa-fw fa-itch-io icon-pad-right' aria-hidden='true'></i>Web-GL Games"
-excerpt: "Web-GL games 2d/3d "
+title: "<i class='fab fa-fw fa-itch-io icon-pad-right' aria-hidden='true'></i>Games / Interactive Gameplay Systems "
+excerpt: "Showcasing custom gameplay mechanics, experimental systems, and immersive Unity game development projects. "
 collection: portfolio
 ---
 
@@ -25,7 +25,7 @@ Home Beyond Stars is an in-development sci-fi exploration game being built in Un
 
 ### Project summary
 
-<img src="/images/projects/HOTD/homestar.png" width="932" height="472" alt="walter environments">
+<img src="/images/projects/HBS/hbsbanner.jpg" width="932" height="472" alt="walter environments">
 
 <div class="my-center-video">
   <iframe 
