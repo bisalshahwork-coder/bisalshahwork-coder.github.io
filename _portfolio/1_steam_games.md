@@ -20,7 +20,7 @@ I enjoy building interactive WebGL experiences by combining design, programming,
 
 ## Hearvest of the Dead
 
-View [itch.io Page](https://bisalshah.itch.io/hearvest-of-the-dead) or [Development Video](https://youtu.be/)
+View [itch.io Page](https://bisalshah.itch.io/hearvest-of-the-dead) or [Development Video](https://youtu.be/wi5gO6aPb2o)
 
 ![formbound image](/../images/HOTD.png)
 
@@ -36,13 +36,14 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 <img src="/images/projects/HOTD/1.png" width="932" height="472" alt="walter environments">
 
-<div class="hotd-video">
-  <video controls>
-    <source src="/images/projects/HOTD/project1vedio.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<div class="my-center-video">
+  <iframe 
+    src="https://www.youtube.com/embed/wi5gO6aPb2o"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 </div>
-
 
 <img src="/images/projects/HOTD/2.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/HOTD/3.png" width="932" height="472" alt="walter environments">
@@ -118,7 +119,7 @@ Developed a customizable in-game action input system in Unity that allows player
 </div>
 
 
-<img src="/images/projects/ActionInputSystem/1.png" width="932" height="472" alt="walter environments">
+
 <img src="/images/projects/ActionInputSystem/2.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/ActionInputSystem/3.png" width="932" height="472" alt="walter environments">
 <img src="/images/projects/ActionInputSystem/4.png" width="932" height="472" alt="walter environments">
