@@ -25,7 +25,7 @@ Mineral Miner is a casual mining game where players break stones, collect valuab
 
 </div>
 
-<div class="video-project"><iframe src="https://www.youtube.com/embed/8XHYCJfnp44" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>
