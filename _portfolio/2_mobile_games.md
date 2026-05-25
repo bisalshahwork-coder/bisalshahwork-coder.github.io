@@ -20,7 +20,7 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 
 
 ## Mineral miner
-View [itch.io Page](https://bisalshah.itch.io/)
+View [itch.io Page](https://bisalshah.itch.io/)<br>
 Mineral Miner is a casual mining game where players break stones, collect valuable minerals, and store resources to progress through the game.
 
 </div>
