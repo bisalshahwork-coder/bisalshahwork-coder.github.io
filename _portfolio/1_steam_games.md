@@ -130,12 +130,12 @@ A third-person post-apocalyptic survival game where players explore dangerous en
 
 <div class="project_background" markdown="1">
 
-## Action Input System 
+## Tunnel Driving  / Procedural Terrain Generation System in Unity
 
 View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/)
 
 ![walter walnut image](/../images/tunnelbanner.png)<br>
-A customizable input–action system with realtime gameplay preview, built to prototype player abilities and controls quickly.
+This project is an endless procedural tunnel system in Unity that dynamically generates and recycles tunnel segments to create a seamless infinite driving environment.
 
 <details markdown="1">
 
