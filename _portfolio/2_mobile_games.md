@@ -9,6 +9,5 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 <i>Below are some examples of my mobile game projects in no particular order.</i>
 <br>
 
-jxgs
 
 
