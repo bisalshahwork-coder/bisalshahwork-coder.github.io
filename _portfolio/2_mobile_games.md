@@ -11,27 +11,29 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 
 
 <div class="project_background" markdown="1">
-
 <div class="video-container">
 <div class="video-description-left" markdown="1">
 
-## Perspective ninja
-
-Game about running and jumping and switching the perspective to change the world around you.
+## Mineral Miner
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/)
+Mineral Miner is a casual mining game where players break stones, collect valuable minerals, and store resources to progress through the game.
 
 </div>
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/8XHYCJfnp44" frameborder="0" allowfullscreen></iframe></div>
-
+<div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 
 
 <div class="project_background" markdown="1">
-
 <div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/nw4MNdjyMLQ" frameborder="0" allowfullscreen></iframe></div>
-
+<div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
 <div class="video-description-right" markdown="1">
+
+## Flippy Run
+View [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/)
+Game about flipping a cube. Similar to geometry dash but 3D.
+</div>
+</div>
+</div>
+
 
