@@ -20,7 +20,7 @@ My goal making devlogs is to inspire and to show how I approach game development
 
 
 
-## Procedural Tunnel System
+## Procedural Tunnel Tarien System
 <small>The main idea of this system is that the TunnelGenerator dynamically creates a procedural tunnel mesh with smooth bends, wave-based deformations, and seamless edges to make the tunnel look continuous and natural during gameplay.</small>
 <small>
 <b>Core Concept</b></small>
@@ -43,6 +43,9 @@ The TunnelManager controls the endless tunnel behavior. It:
 - Regenerates tunnel meshes infinitely
 
 This helps create the illusion of an endless world while improving performance by reusing objects instead of constantly creating new ones.
+
+
+## Companion AI System
 
 
 
