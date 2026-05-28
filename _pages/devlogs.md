@@ -22,10 +22,11 @@ My goal making devlogs is to inspire and to show how I approach game development
 
 ## Procedural Tunnel Tarien System
 <small>The main idea of this system is that the TunnelGenerator dynamically creates a procedural tunnel mesh with smooth bends, wave-based deformations, and seamless edges to make the tunnel look continuous and natural during gameplay.</small>
-<small>
-<b>Core Concept</b></small>
-<small>The system is divided into two main scripts:</small>                          
-<small><b>TunnelGenerator</b></small>
+<small><br>
+
+<b>Core Concept</b></small><br>
+<small>The system is divided into two main scripts:</small> <br>                         
+<small><b>TunnelGenerator</b></small><br>
 <small>The TunnelGenerator script is responsible for creating the tunnel mesh procedurally. It generates vertices, triangles, UVs, and mesh colliders dynamically. The tunnel includes:</small>
 - <small>Smooth bends</small>
 - <small>Wave deformations</small>
@@ -98,19 +99,3 @@ This helps create the illusion of an endless world while improving performance b
 
 
 
-### Cube Runner
-
-A level-based 3D runner game featuring handcrafted stages, each with unique
-environments and increasing difficulty.
-
-<div class="video-container">
-    <div class="video"><iframe src="https://www.youtube.com/embed/EZ6-GX7TMkg?si=Wl_DalmfKO_Yb_vG" frameborder="0" allowfullscreen></iframe></div>
-</div>
-
-* Gameplay: Control a cube or ship moving at high speeds, shifting left or right to avoid collisions.
-
-* Visual Style: Often features a voxel or low-poly aesthetic with high-contrast colors and clean lines.
-
-* Difficulty: The game typically uses procedural generation so that obstacle patterns are unique every time, with the speed increasing the longer you survive.
-
-* Development: It is a popular foundational project for developers using engines like Unity, as it focuses on core mechanics like physics, object spawning, and responsive controls.
