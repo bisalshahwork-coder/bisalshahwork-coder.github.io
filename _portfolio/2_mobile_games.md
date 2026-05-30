@@ -18,7 +18,7 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 [View itch.io Page](https://bisalshah.itch.io/) | [Development Video](https://youtu.be/NCf_z6FoOcs?si=5_a8sqyYB0Ulu3GH)<br>
 
 ⚠️ Prototype Build<br>
-<small>Among Us Miner is an early prototype developed in Unity. Players can break rocks, collect gems, and test the core mining gameplay mechanics. This project focuses on experimenting with mining, resource collection, and player interaction systems.</small>
+<small>Among Us Miner is an early prototype developed in Unity. Players can break rocks, collect gems, and test the core mining gameplay mechanics. </small>
 </div>
 <div class="video-project">
     <iframe 
