@@ -40,7 +40,7 @@ Experience
 
 ### 2026 Game Developer Intern
 Appsndevices Technologies Private Limited.<br>
-01/2026 - 04/2026    Bangalore, Karnataka
+01/2026 - 06/2026    Bangalore, Karnataka
 
 * Developed gameplay systems and mechanics for educational arcade games using Unity and C#.
 * Implemented enemy behavior, collision detection, shooting systems, and game state management.
