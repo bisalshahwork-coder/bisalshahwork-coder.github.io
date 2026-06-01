@@ -113,5 +113,6 @@ Skills
 - Photo editing in Photoshop and Lightroom
 
 <br>
-Also check out my wildlife photos:<br>
+Also check out my wildlife photography on Instagram! <a href="https://www.instagram.com/"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a> <br>
+Beyond game development, I have a strong passion for wildlife photography. Growing up in Arunachal Pradesh, surrounded by the forests and mountains of Northeast India, developed my appreciation for nature and wildlife from an early age. Whenever I enjoy exploring the diverse landscapes of Northeast India, traveling through Arunachal Pradesh, Assam, Meghalaya, Nagaland, and Sikkim in search of unique wildlife, breathtaking scenery, and unforgettable moments in nature, I enjoy capturing the unique animals, birds, and landscapes that make this part of the world so diverse and beautiful.<br>
 <a href="https://www.instagram.com/"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a>
