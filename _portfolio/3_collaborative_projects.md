@@ -1,5 +1,5 @@
 ---
-title: "<i class='fa-solid fa-people-group icon-pad-right' aria-hidden='true'></i>2D Games"
+title: "<i class='fa-solid fa-rocket icon-pad-right' aria-hidden='true'></i></i>2D Games"
 excerpt: "I have worked on multiple 2D projects."
 collection: portfolio
 ---
