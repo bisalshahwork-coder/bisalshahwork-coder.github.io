@@ -117,6 +117,7 @@ Also check out my wildlife photography on Instagram! <a href="https://www.instag
 <i><small>Beyond game development, I have a strong passion for wildlife photography. Growing up in<b>Arunachal Pradesh</b>, surrounded by the forests and mountains of Northeast India, developed my appreciation for nature and wildlife from an early age. Whenever I enjoy exploring the diverse landscapes of Northeast India, traveling through Arunachal Pradesh, Assam, Meghalaya, Nagaland, and Sikkim in search of unique wildlife, breathtaking scenery, and unforgettable moments in nature, I enjoy capturing the unique animals, birds, and landscapes that make this part of the world so diverse and beautiful.</small></i><br>
 <div class="author__avatar__cv">
     <img src="/images/photography1.png" alt="Thijmen Schoonbeek">
-    <img src="/images/me.png" alt="Thijmen Schoonbeek">
+    <img src="/images/photography2.png" alt="Thijmen Schoonbeek">
+    <img src="/images/photography3.png" alt="Thijmen Schoonbeek">
 </div>
 
