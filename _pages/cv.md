@@ -87,6 +87,19 @@ Skills
 - Google Play & Apple App store tools
 - Unity Ads & Google AdMob
 
+### Design Skills
+- Game Design Principles & Player Psychology
+- Gameplay Systems & Mechanics Design
+- Economy Design & Balancing
+- Player Progression & Reward Loop Design
+- Level Design & Difficulty Tuning
+- Game Design Documentation (GDD)
+- Data-Driven Design & Balancing Spreadsheets
+- Prototyping & Iterative Playtesting
+- Competitive Analysis & Game Research
+- Cross-functional Collaboration
+
+
 ### Software development 
 - Git
 - Docker
