@@ -37,6 +37,9 @@ Education
 
 Experience
 ======
+### 2026 Game Developer (Full-Time)
+Appsndevices Technologies Private Limited.<br>
+06/2026    Bangalore, Karnataka
 
 ### 2026 Game Developer Intern
 Appsndevices Technologies Private Limited.<br>
