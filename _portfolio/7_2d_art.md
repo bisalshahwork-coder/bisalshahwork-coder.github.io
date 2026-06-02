@@ -6,16 +6,17 @@ collection: portfolio
 
 I’ve always been passionate about sketching and digital art using tools like Adobe Photoshop, Illustrator, and Procreate. Below are some examples of my 2D artwork.
 
-## ZA-lee
-
-Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping her hold ground and push back enemies.
-
-<img src="/images/2D-art/ZA-lee.png" width="932" height="472" alt="walter story images">
-
-<br>
-
 ## Creature Design
 <img src="/images/2D-art/creature.png" width="932" height="472" alt="walter story images">
+<br>
+
+## ZA-lee
+Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping her hold ground and push back enemies.
+<img src="/images/2D-art/ZA-lee.png" width="932" height="472" alt="walter story images">
+<br>
+<img src="/images/2D-art/ZA-lee2.png" width="932" height="472" alt="walter story images">
+<br>
+
 
 
 <!-- ## Character icons
