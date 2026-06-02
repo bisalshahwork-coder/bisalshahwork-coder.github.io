@@ -14,7 +14,12 @@ Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping
 
 <br>
 
+## Creature Design
+<img src="/images/2D-art/ZA-lee.png" width="932" height="472" alt="walter story images">
+
+
 <!-- ## Character icons
+
 
 Cute goofy looking character icons I drew for Walter Walnut.
 
