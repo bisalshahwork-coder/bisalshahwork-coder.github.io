@@ -17,7 +17,10 @@ Zt-lee is the team's forntline heavy hitter. her Ai arms react instantly helping
 <img src="/images/2D-art/ZA-lee2.png" width="932" height="472" alt="walter story images">
 <br>
 
-
+## BatMan
+Some seriously intense, high-contrast storyboard frames showing off a heavily armored, horned take on Batman. Love how the deep crimson tones and sharp sketches make the whole sequence feel incredibly dark and action-packed.
+<img src="/images/2D-art/Batman.png" width="932" height="472" alt="walter story images">
+<br>
 
 <!-- ## Character icons
 
