@@ -4,7 +4,7 @@ excerpt: "I have worked on multiple 2D projects."
 collection: portfolio
 ---
 
-Designed and developed several 2D games independently using Unity, focusing on gameplay systems, level design, UI development, and version control with Git.
+Designed and developed several 2D games independently using Unity, focusing on gameplay systems, level design, UI development.
 
 
 <div class="project_background" markdown="1">
