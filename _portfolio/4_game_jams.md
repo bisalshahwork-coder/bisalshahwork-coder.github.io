@@ -10,12 +10,13 @@ This multiplayer projects was built to explore networking and real-time player i
 
 <!-- ### Timelapses
 <i>Below are some timelapses from jams that I've done. Scroll down for projects that I didn't record a timelapse for.</i>
-<div class="project_background" markdown="1">
+<div class="project_background" markdown="1"> -->
+
+
+
+
 <div class="video-container">
-<div class="video-description-left" markdown="1"> -->
-
-
-
+<div class="video-description-left" markdown="1">
 
 ## Island Warfare
 Battle against friends on floating islands in a fast-paced multiplayer shooter where strategy and accuracy decide the winner.
@@ -23,7 +24,4 @@ Battle against friends on floating islands in a fast-paced multiplayer shooter w
 <div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
-<div class="project_background" markdown="1">
-<div class="video-container">
-<div class="video-description-left" markdown="1">
 
