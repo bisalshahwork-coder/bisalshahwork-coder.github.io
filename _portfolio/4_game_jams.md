@@ -9,12 +9,11 @@ This multiplayer projects was built to explore networking and real-time player i
 <!-- <a href="https://bisalshah.itch.io/"><i class="fab fa-fw fa-itch-io icon-pad-right" aria-hidden="true"></i>View all jam games on itch.io</a> -->
 
 <!-- ### Timelapses
-<i>Below are some timelapses from jams that I've done. Scroll down for projects that I didn't record a timelapse for.</i>
-<div class="project_background" markdown="1"> -->
+<i>Below are some timelapses from jams that I've done. Scroll down for projects that I didn't record a timelapse for.</i> -->
 
 
 
-
+<div class="project_background" markdown="1">
 <div class="video-container">
 <div class="video-description-left" markdown="1">
 
