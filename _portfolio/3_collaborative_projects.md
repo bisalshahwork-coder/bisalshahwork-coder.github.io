@@ -34,7 +34,7 @@ Rocket Landing is a physics-based lunar lander game built  in Unity. Navigate yo
 
 View [itch.io](https://bisalshah.itch.io/punita)
 
-The Frog is a precision speedrunning platformer featuring handcrafted, hazard-filled stages built for tight, snappy movement. Dash through custom platforming challenges, dodge deadly traps, and master your timing to lock in a perfect 3-star score!
+Ninja Frog is a precision speedrunning platformer featuring handcrafted, hazard-filled stages built for tight, snappy movement. Dash through custom platforming challenges, dodge deadly traps, and master your timing to lock in a perfect 3-star score!
 
 
 <!-- <i>Team size: +-30</i> -->
