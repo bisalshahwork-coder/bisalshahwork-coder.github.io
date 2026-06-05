@@ -10,8 +10,8 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 <br>
 
 <div class="project_background" markdown="1">
-<!-- <div class="video-container"> -->
-<img src="/images/projects/HBS/hbsbanner.jpg" width="932" height="472" alt="walter environments">
+<div class="video-container">
+<img src="/images/mobile_games/pipe.png" width="932" height="472" alt="walter environments">
 <div class="video-description-right" markdown="1">
 
 ## Pipe Conector
