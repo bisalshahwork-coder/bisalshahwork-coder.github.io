@@ -18,7 +18,7 @@ This multiplayer projects was built to explore networking and real-time player i
 <div class="video-description-left" markdown="1">
 
 ## Island Warfare
-Play [Download](https://)<br>
+Play [Play Here](https://bisalshah.itch.io/mazearena)<br>
 Battle against friends on floating islands in a fast-paced multiplayer shooter where strategy and accuracy decide the winner.
 </div>
 <div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
