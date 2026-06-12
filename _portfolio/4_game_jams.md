@@ -31,11 +31,9 @@ MazeArena is a real-time online multiplayer arena shooter developed in Unity usi
 
 ### Project summary
 
-<img src="/images/multiplayer/1.png" width="932" height="472" alt="walter environments">
-
 <div class="my-center-video">
   <iframe 
-    src="https://www.youtube.com/embed/fieZ0Abndtk?si=fNmgCUKrlnM568gq"
+    src="https://www.youtube.com/embed/w0Erd1x7Caw"
     title="YouTube video player"
     frameborder="0"
     allowfullscreen>
