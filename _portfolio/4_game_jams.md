@@ -12,27 +12,7 @@ This multiplayer projects was built to explore networking and real-time player i
 <i>Below are some timelapses from jams that I've done. Scroll down for projects that I didn't record a timelapse for.</i> -->
 
 
-
-<div class="project_background" markdown="1">
-<div class="video-container">
-<div class="video-description-left" markdown="1">
-
-## Island Warfare
- [Tap to Play ](https://bisalshah.itch.io/mazearena)<br>
-Battle against friends on floating islands in a fast-paced multiplayer shooter where strategy and accuracy decide the winner.
-</div>
-<div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-<!-- ============================================Project Z009==================================================== -->
+<!-- ============================================Multiplayer==================================================== -->
 
 <div class="project_background" markdown="1">
 
@@ -61,8 +41,14 @@ MazeArena is a real-time online multiplayer arena shooter developed in Unity usi
     allowfullscreen>
   </iframe>
 </div>
+
 <!-- <img src="/images/projects/HOTD/2.png" width="932" height="472" alt="walter environments"> -->
 
 
 
+
+
+<br />
+</details>
+> Reviews: -
 </div>
