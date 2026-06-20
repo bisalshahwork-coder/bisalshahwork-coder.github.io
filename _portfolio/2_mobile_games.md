@@ -51,7 +51,7 @@ Play [itch.io Page](https://bisalshah.itch.io/) | [Development Video](https://yo
 
 ## Poly-Track
 Play [itch.io Page](https://bisalshah.itch.io/polytrack) or [Development Video](https://www.youtube.com/)
-PolyTrack is a physics-based driving game focused on responsive, satisfying car handling. Built with a custom WheelCollider setup, the car reacts naturally to acceleration, braking, and cornering — tuned for an arcade feel without losing physical weight.
+PolyTrack is a physics-based arcade driving game built in Unity 6, featuring custom WheelCollider physics, dynamic camera, and responsive car handling.
 </div>
 </div>
 </div>
