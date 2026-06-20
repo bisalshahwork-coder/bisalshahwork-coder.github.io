@@ -46,12 +46,12 @@ Play [itch.io Page](https://bisalshah.itch.io/) | [Development Video](https://yo
 
 <div class="project_background" markdown="1">
 <div class="video-container">
-<div class="video-project"><iframe src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe></div>
+<img src="/images/mobile_games/poly.png" width="400" height="200" alt="walter environments">
 <div class="video-description-right" markdown="1">
 
-## Flippy Run
-Play [itch.io Page](https://bisalshah.itch.io/) or [Development Video](https://www.youtube.com/)
-Game about flipping a cube. Similar to geometry dash but 3D.
+## Poly-Track
+Play [itch.io Page](https://bisalshah.itch.io/polytrack) or [Development Video](https://www.youtube.com/)
+PolyTrack is a physics-based driving game focused on responsive, satisfying car handling. Built with a custom WheelCollider setup, the car reacts naturally to acceleration, braking, and cornering — tuned for an arcade feel without losing physical weight.
 </div>
 </div>
 </div>
