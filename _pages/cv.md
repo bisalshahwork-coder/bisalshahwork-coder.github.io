@@ -49,7 +49,7 @@ Appsndevices Technologies Private Limited.<br>
 * Implemented enemy behavior, collision detection, shooting systems, and game state management.
 * Built game economy systems — spawn rates, power-up logic, and scoring mechanics.
 * Collaborated with designers and testers to implement specs, fix bugs, and refine features.
-* Shipped two complete WebGL builds to itch.io from development through final deployment.
+* Shipped Sevral WebGL builds to itch.io from development through final deployment.
 
 ### 2025: Game Developer Internship
 Centre of Excellence in Immersive Technologies, Alliance University<br>
