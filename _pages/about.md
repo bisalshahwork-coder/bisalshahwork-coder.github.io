@@ -22,10 +22,10 @@ I'm a game Designer and developer with a Master's in software development.
 While programming is my forte, I’m passionate about a wide range of creative projects, from game development to 2D art, video editing, and wildlife photography. 
 I’m always open to new opportunities — <i>feel free to get in touch!</i>
 
-View [Projects](projects) or watch the Dev Vedio for my [itch.io](https://bisalshah.itch.io/) Games below:
+View [Projects](projects) or watch the trailer for my [itch.io](https://bisalshah.itch.io/) Games below:
 
 <div class="video-container">
-<div class="video"><iframe src="https://youtu.be/NCf_z6FoOcs?si=5_a8sqyYB0Ulu3GH" frameborder="0" allowfullscreen></iframe></div>
+<div class="video"><iframe src="https://www.youtube.com/embed/NCf_z6FoOcs?si=VtyrsYf5FDh3yjng" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
