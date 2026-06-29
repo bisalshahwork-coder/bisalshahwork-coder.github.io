@@ -4,11 +4,9 @@ excerpt: "Augmented Reality projects developed using Unity."
 collection: portfolio
 ---
 
-I enjoy developing immersive Augmented Reality experiences using Unity and AR Foundation. My focus is on creating interactive applications that blend digital content with the real world while maintaining smooth performance and an intuitive user experience.
-
 <div class="project_background" markdown="1">
 
-## AR Furniture Placement Application
+## AR Furniture Placement
 
 <div class="video-container">
 
@@ -20,28 +18,18 @@ I enjoy developing immersive Augmented Reality experiences using Unity and AR Fo
 
 <div class="video-description-right" markdown="1">
 
-An Augmented Reality application that allows users to place, move, rotate, and scale 3D furniture in their surroundings using plane detection. The project demonstrates real-world surface tracking, realistic object placement, and intuitive touch interactions.
+An AR application built with Unity that allows users to place and interact with 3D furniture in real-world environments using plane detection.
 
-### Features
-- Plane Detection
-- Real-time Object Placement
-- Move, Rotate & Scale Objects
-- Multiple Furniture Models
-- Surface Tracking
-- User-friendly Touch Controls
-- Cross-platform support with AR Foundation
-
-### Technologies Used
-- Unity
-- C#
-- AR Foundation
-- ARCore
-- XR Plugin Management
-
-### GitHub
+**Tech Stack:** Unity • C# • AR Foundation • ARCore
 
 <a href="https://github.com/yourusername/your-repository" target="_blank">
-<i class="fab fa-github"></i> View Source Code
+<i class="fab fa-github"></i> GitHub
+</a>
+
+<br>
+
+<a href="/files/ARFurniturePlacement.apk" target="_blank">
+<i class="fa-solid fa-mobile-screen-button"></i> Download APK
 </a>
 
 </div>
