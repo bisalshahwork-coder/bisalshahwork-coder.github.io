@@ -1,117 +1,51 @@
-<!-- ---
-title: "<i class='fa-solid fa-person-chalkboard icon-pad-right' aria-hidden='true'></i>Tutorials"
-excerpt: "I have created mostly short form tutorials to show tips and tricks in Unity and explain game dev concepts."
+---
+title: "<i class='fa-solid fa-vr-cardboard icon-pad-right' aria-hidden='true'></i>AR / VR Projects"
+excerpt: "Augmented Reality projects developed using Unity."
 collection: portfolio
 ---
 
-I have created tutorials to show tips and tricks in Unity and explain game dev concepts.
-I enjoy explaining game development topics and have condensed some into short-form videos.
-
-<i>Don't worry I don't use notepad for my IDE anymore ;)</i>
+I enjoy developing immersive Augmented Reality experiences using Unity and AR Foundation. My focus is on creating interactive applications that blend digital content with the real world while maintaining smooth performance and an intuitive user experience.
 
 <div class="project_background" markdown="1">
 
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/e6Gjhr1IP6w" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Procedural animation
-
-Procedural animation tutorial that I made after researching the topic for weeks. One of the most upvoted posts on [r/Unity3d](https://www.reddit.com/r/Unity3D/comments/fqabkx/i_tried_to_explain_procedural_animation_in_10/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
-
-</div>
-
-</div>
-</div>
-
-
-<div class="project_background" markdown="1">
+## AR Furniture Placement Application
 
 <div class="video-container">
 
-<div class="video-project"><iframe src="https://www.youtube.com/embed/7DYVUI4jBCk" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-project">
+
+<img src="/images/ar-project-cover.png" alt="AR Furniture Placement">
+
+</div>
 
 <div class="video-description-right" markdown="1">
 
-## Hoverboard physics
+An Augmented Reality application that allows users to place, move, rotate, and scale 3D furniture in their surroundings using plane detection. The project demonstrates real-world surface tracking, realistic object placement, and intuitive touch interactions.
 
-Short tutorial that explains a basic implementation of hoverboard physics by adding force at the corners of the board.
+### Features
+- Plane Detection
+- Real-time Object Placement
+- Move, Rotate & Scale Objects
+- Multiple Furniture Models
+- Surface Tracking
+- User-friendly Touch Controls
+- Cross-platform support with AR Foundation
 
-</div>
+### Technologies Used
+- Unity
+- C#
+- AR Foundation
+- ARCore
+- XR Plugin Management
 
-</div>
-</div>
+### GitHub
 
-
-<div class="project_background" markdown="1">
-
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/Fr0VJfBWU5w" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Music visualizer
-
-Tutorial that explains how to make a simple music visualizer.
-
-</div>
-
-</div>
-</div>
-
-
-<div class="project_background" markdown="1">
-
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/NGixJd79mcE" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Destructible objects
-
-Short tutorial that shows how to make destructible objects using Unity and Blender.
+<a href="https://github.com/yourusername/your-repository" target="_blank">
+<i class="fab fa-github"></i> View Source Code
+</a>
 
 </div>
 
 </div>
-</div>
-
-
-<div class="project_background" markdown="1">
-
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/miB4qah7n_A" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Centipede animation
-
-Shows how to make a procedurally animated centipede. More of a breakdown than a tutorial.
 
 </div>
-
-</div>
-</div>
-
-
-<div class="project_background" markdown="1">
-
-<div class="video-container">
-
-<div class="video-project"><iframe src="https://www.youtube.com/embed/Rqs81nnUlBY" frameborder="0" allowfullscreen></iframe></div>
-
-<div class="video-description-right" markdown="1">
-
-## Accurate projectiles
-
-Shows how to make accurate projectiles using raycast, that don't rely on triggers.
-
-</div>
-
-</div>
-</div> -->
