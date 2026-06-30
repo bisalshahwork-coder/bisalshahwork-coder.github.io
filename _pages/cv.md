@@ -35,7 +35,7 @@ Education
 
 <br>
 
-<!-- Experience
+Experience
 ======
 ### 2026 Game Developer (Full-Time)
 Appsndevices Technologies Private Limited.<br>
@@ -58,7 +58,7 @@ Centre of Excellence in Immersive Technologies, Alliance University<br>
 * Completed an intensive 30-day programme covering Unity, C#, 2D/3D game development, and AR/VR development.
 * Built and shipped a capstone project combining game design and immersive technology concepts.
 * Collaborated with students from multiple colleges and states in a diverse, fast-paced learning environment.
-* Gained practical exposure to AR/VR development pipelines and immersive game production workflows. -->
+* Gained practical exposure to AR/VR development pipelines and immersive game production workflows.
 
 <br>
 
