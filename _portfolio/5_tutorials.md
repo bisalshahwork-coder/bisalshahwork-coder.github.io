@@ -18,15 +18,13 @@ collection: portfolio
 
 <div class="video-description-right" markdown="1">
 
-An AR application built with Unity that allows users to place and interact with 3D furniture in real-world environments using plane detection.
+Built a Unity AR app with a joystick-controlled flying dragon. in real-world environments using plane detection.
 
 **Tech Stack:** Unity • C# • AR Foundation • ARCore
 
 <a href="https://github.com/yourusername/your-repository" target="_blank">
 <i class="fab fa-github"></i> GitHub
 </a>
-
-<br>
 
 <a href="/files/ARFurniturePlacement.apk" target="_blank">
 <i class="fa-solid fa-mobile-screen-button"></i> Download APK
