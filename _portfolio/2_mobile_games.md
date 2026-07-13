@@ -9,19 +9,28 @@ I have worked on casual games focused on simple mechanics, smooth gameplay, and 
 <i>Below are some examples of my mobile game projects in no particular order.</i>
 <br>
 
+<!-- 1. PIPE CONNECTOR (Updated to match Video layout) -->
 <div class="project_background" markdown="1">
 <div class="video-container">
-<img src="/images/mobile_games/pipe.png" width="400" height="200" alt="walter environments">
-<div class="video-description-right" markdown="1">
+<div class="video-description-left" markdown="1">
 
-## Pipe Conector
-Play [itch.io Page](https://bisalshah.itch.io/pipe-conector) or [Development Video](https://www.youtube.com/)
+## Pipe Connector
+Play [itch.io Page](https://bisalshah.itch.io/pipe-conector) | [Development Video](https://www.youtube.com/)<br>
+
 Pipe Rescue is a 2D puzzle game built in <b> Cocos Creator 3.8.8,</b> where players rotate pipe tiles to connect the Start and Goal points before running out of moves.
+</div>
+<div class="video-project">
+    <iframe 
+        src="https://www.youtube.com/embed/YOUR_PIPE_VIDEO_ID_HERE" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>
 </div>
 </div>
 <br>
 
+<!-- 2. MINERAL MINER (Original Correct Layout) -->
 <div class="project_background" markdown="1">
 <div class="video-container">
 <div class="video-description-left" markdown="1">
@@ -35,23 +44,30 @@ Play [itch.io Page](https://bisalshah.itch.io/) | [Development Video](https://yo
 <div class="video-project">
     <iframe 
         src="https://www.youtube.com/embed/NCf_z6FoOcs"
-        frameborder="0"
+        frameborder="0" 
         allowfullscreen>
     </iframe>
 </div>
 </div>
 </div>
-
 <br>
 
+<!-- 3. POLY-TRACK (Updated to match Video layout) -->
 <div class="project_background" markdown="1">
 <div class="video-container">
-<img src="/images/mobile_games/poly.png" width="400" height="200" alt="walter environments">
-<div class="video-description-right" markdown="1">
+<div class="video-description-left" markdown="1">
 
 ## Poly-Track
-Play [itch.io Page](https://bisalshah.itch.io/polytrack) or [Development Video](https://www.youtube.com/)
+Play [itch.io Page](https://bisalshah.itch.io/polytrack) | [Development Video](https://www.youtube.com/)<br>
+
 PolyTrack is a physics-based arcade driving game built in Unity 6, featuring custom WheelCollider physics, dynamic camera, and responsive car handling.
+</div>
+<div class="video-project">
+    <iframe 
+        src="https://www.youtube.com/embed/YOUR_POLYTRACK_VIDEO_ID_HERE" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
 </div>
 </div>
 </div>
